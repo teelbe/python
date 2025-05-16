@@ -1,0 +1,5 @@
+dec_number = int(input("Enter a decimal number: "))
+print("The decimal vale of", dec_number, "is:")
+print(bin(dec_number), "in binary;")
+print(oct(dec_number), "in octal;")
+print(hex(dec_number), "in hexadecimal.")
